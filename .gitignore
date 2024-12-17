@@ -1,0 +1,50 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Logs
+logs/
+*.log
+logs/*.log
+logs/*.txt
+logs/*
+
+# Environment Variables
+.env
+.env.*.local
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build Files
+dist/
+build/
+
+# Coverage
+coverage/
+
+# Miscellaneous
+*.bak
+*.tmp
+*.temp
+
+# MongoDB
+dump/
+*.log
+
+# Local testing configurations
+*.local
+*.test.js

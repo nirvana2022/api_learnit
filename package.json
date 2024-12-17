@@ -1,0 +1,25 @@
+{
+  "name": "api_learnit",
+  "version": "1.0.0",
+  "description": "api",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nirvana2022/api_learnit.git"
+  },
+  "author": "Didier Alexander Villamil Jimenez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nirvana2022/api_learnit/issues"
+  },
+  "homepage": "https://github.com/nirvana2022/api_learnit#readme",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.2",
+    "mongoose": "^8.9.1",
+    "nodemon": "^3.1.9"
+  }
+}
